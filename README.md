@@ -12,3 +12,7 @@ git commit -m "some message"
 git push origin name
 # init - used to create a new git repo
 git init
+-> git remote add origin <-link-> (to add new file from vs to new repository)
+-> git remote -v (to verify remote)
+-> git branch (to check branch)
+-> git branch -M main (to rename branch)
